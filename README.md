@@ -1,2 +1,2 @@
-# DKD-BiomedNER
-Data and model will available after the paper be accepted 
+# NER for Online Chinese biomedical text
+Corpora from our own collect and CMID

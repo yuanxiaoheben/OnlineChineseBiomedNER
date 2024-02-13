@@ -2,9 +2,9 @@
 Corpora from our own collect and CMID
 
 
-# Checkpoint for MedicalQA-BERT
+### Checkpoint for MedicalQA-BERT
 Baidu disk: https://pan.baidu.com/s/1iTgQwwBPrYiTw_backgySw?pwd=0rc0
 
-# Benchmark dataset 
+### Benchmark dataset 
 preparing
-# If you use our dataset and model plese cite
+### If you use our dataset and model plese cite

@@ -12,6 +12,7 @@ Code preparing
 
 ### Paper and Citation
 You can cite our paper as:  
+<pre>
 @article{CAO2024102813,  
 title = {Online biomedical named entities recognition by data and knowledge-driven model},  
 journal = {Artificial Intelligence in Medicine},  
@@ -23,3 +24,4 @@ doi = {https://doi.org/10.1016/j.artmed.2024.102813},
 url = {https://www.sciencedirect.com/science/article/pii/S0933365724000551},  
 author = {Lulu Cao and Chaochen Wu and Guan Luo and Chao Guo and Anni Zheng}  
 }
+<\pre>

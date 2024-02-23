@@ -2,7 +2,7 @@
 Online biomedical named entities recognition by data and knowledge-driven model
 
 ### Benchmark dataset 
-MedQ-NER v.1.0  
+MedQ-NER v1.0  
 Download site: https://pan.baidu.com/s/1k0uvfMp2s5wA2G0akD0uFg?pwd=qufz   
 Train Text(including validation): 6600  
 Test Text: 800  

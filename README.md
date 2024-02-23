@@ -2,7 +2,14 @@
 Corpora from our own collect and CMID
 
 ### Benchmark dataset 
-preparing
+MedQ-NER v.1.0
+Download site: https://pan.baidu.com/s/1k0uvfMp2s5wA2G0akD0uFg?pwd=qufz 
+Train (including validation): 6600
+Test: 800
+
+
+### DKD-BiomedNER
+Code preparing
 
 ### Paper and Citation
 You can cite our paper as:  

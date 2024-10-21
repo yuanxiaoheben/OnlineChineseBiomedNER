@@ -7,7 +7,7 @@ Train Text(including validation): 6600
 Test Text: 800  
 
 ### DKD-BiomedNER
-Code preparing
+
 
 ### Paper and Citation
 You can cite our paper as:  
